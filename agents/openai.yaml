@@ -1,0 +1,4 @@
+interface:
+  display_name: "OCI Cloud Architect"
+  short_description: "OCI architecture and operations advisor"
+  default_prompt: "Use $oci-cloud-architect to review an OCI deployment plan and produce secure, cost-aware next steps."
