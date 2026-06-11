@@ -103,6 +103,8 @@ For IaC work the skill follows the station pattern — *intent → context → s
 
 ---
 
+> This is an independent, community project. Not affiliated with, endorsed by, or sponsored by Oracle Corporation. "Oracle", "OCI" and "Oracle Cloud Infrastructure" are trademarks of Oracle Corporation, used here nominatively to refer to those products. All guidance is the author's own, based on publicly available documentation — refer to Oracle's official docs for authoritative information.
+
 ## License
 
 MIT — use it, fork it, improve it.
