@@ -75,7 +75,7 @@ IAM, Vault, GenAI, networking, or runtime operations.
   rerun `terraform init`, capture the exact provider path/version, and retry
   validate before changing HCL further.
 
-## AI-SDLC Terraform Unit Pattern
+## AI-DLC Terraform Unit Pattern
 
 Use the Estacion Terraform lesson as an operational contract:
 
