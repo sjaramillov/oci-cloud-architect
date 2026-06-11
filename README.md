@@ -97,7 +97,7 @@ The skill operates under a strict, secure-by-default posture:
 
 ---
 
-## Built for AI-SDLC
+## Built for AI-DLC
 
 For IaC work the skill follows the station pattern — *intent → context → scope → dependencies → execution → validation → review → memory/audit* — and won't treat an HCL edit as complete until the matching task, acceptance criteria, validation evidence and residual risks are updated.
 
