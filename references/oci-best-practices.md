@@ -110,7 +110,7 @@ Use the Estacion Terraform lesson as an operational contract:
   as `ADMIN`; keep wallets and passwords outside Git.
 - **GenAI:** configure region, compartment OCID and model OCID explicitly.
   GenAI credentials do not replace domain evidence authorization such as MCP
-  access in MAYAPP.
+  access in MYAPP.
 - **Monitoring:** keep Grafana private or allowlisted. Scrape private targets
   and expose only the minimum blackbox/public probes needed for health.
 
@@ -149,7 +149,7 @@ When the OCI provider fails locally:
 - Ensure the instance dynamic group can `use generative-ai-family` in the target
   compartment.
 - Separate LLM inference authorization from domain evidence authorization. For
-  MAICO, OCI GenAI credentials do not replace MCP evidence authorization.
+  MYAPP, OCI GenAI credentials do not replace MCP evidence authorization.
 
 ## Operational Review Output
 
