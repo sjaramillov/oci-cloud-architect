@@ -87,7 +87,7 @@ oci-cloud-architect/
 
 ## Guardrails
 
-The skill operates under a strict, secure-by-default posture:
+The skill operates under a strict, secure-by-design posture:
 
 - **No destructive actions without explicit approval** — no `terraform apply`/`destroy` or mutating OCI commands on its own.
 - **Secrets never leave your machine** — no keys, wallets, auth tokens or secret bundles in Git, shell history, command args, PR bodies or logs.
